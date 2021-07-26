@@ -221,6 +221,19 @@
   transform: scale(1) !important;
 }
 
+.mainContent-u_9PKf[aria-label*=css][aria-label$="text channel)"] > div > svg > path:first-child {
+  d: path("M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z");
+  transform: scale(1) !important;
+}
+.mainContent-u_9PKf[aria-label*=css][aria-label$="text channel)"] > div > svg[viewBox="0 0 40 40"] > path {
+  transform: scale(1.7) !important;
+}
+.mainContent-u_9PKf[aria-label*=css][aria-label$="announcement channel)"] > div > svg > path {
+  d: path("M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0l4.6-4.6-4.6-4.6L16 6l6 6-6 6-1.4-1.4z");
+  transform: scale(1) !important;
+}
+
+
 
 /* ＼／＼／＼／＼／＼／＼／＼／＼／＼／＼／ */
 

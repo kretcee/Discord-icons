@@ -1,3 +1,5 @@
+# I stopped updating this repo
+
 # Discord-icons
 🎨 Icons for my discord server
 
